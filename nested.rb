@@ -79,7 +79,7 @@ def adding_matz
       },
       :
     }
-programmer_hash[alan_kay]
+alan_kay
 end
 
 def changing_alan
