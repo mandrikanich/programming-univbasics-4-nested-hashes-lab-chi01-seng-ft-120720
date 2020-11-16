@@ -104,7 +104,6 @@ end
       },
       :
     }
-alan_kay
 end
 
 def changing_alan
