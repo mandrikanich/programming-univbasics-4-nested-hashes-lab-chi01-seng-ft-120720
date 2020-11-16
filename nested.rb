@@ -85,6 +85,7 @@ def adding_matz
         :languages => ["LISP", "C"]
       }
     }
+binding.pry
 programmer_hash[:yukihiro_matsumoto]
 end
 
