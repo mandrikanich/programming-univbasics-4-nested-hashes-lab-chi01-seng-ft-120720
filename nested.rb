@@ -36,6 +36,7 @@ def alan_kay_is_known_for
         :languages => ["C"]
       }
     }
+binding.pry 
 programmer_hash[:Object_Orientation]
 end
 
