@@ -1,4 +1,4 @@
-require_relative "spec_helper"
+zrequire_relative "spec_helper"
 require_relative "../nested.rb"
 
 describe "Working with Nested Hashes -" do
