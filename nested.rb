@@ -86,7 +86,7 @@ def adding_matz
       }
     }
 binding.pry
-programmer_hash[:yukihiro_matsumoto][:known_for]
+programmer_hash[:yukihiro_matsumoto][:known_for][:languages][0,1]
 end
 
 	programmer_hash = 
